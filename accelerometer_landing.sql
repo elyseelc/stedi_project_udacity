@@ -1,4 +1,4 @@
-CREATE EXTERNAL TABLE `accelerometer_landing`(
+CREATE EXTERNAL TABLE `stediproject_database2`.`accelerometer_landing`(
   `timestamp` bigint COMMENT 'from deserializer',
   `user` string COMMENT 'from deserializer',
   `x` double COMMENT 'from deserializer',
