@@ -2,10 +2,10 @@
 
 ## customer_landing table screenshot
 
-<img width="722" alt="customer_landing_screenshot" src="https://github.com/elyseelc/stedi_project_udacity/assets/128007448/3c7d821c-0ba8-4411-bdbb-e4c1a856524a">
+<img width="643" alt="customer_landing_screenshot_query" src="https://github.com/elyseelc/stedi_project_udacity/assets/128007448/454781dc-d705-42a8-8a24-0623e1d07eb2">
 
 
 
 ## accelerometer_landing table screenshot
 
-<img width="788" alt="accelerometer_landing_screenshot" src="https://github.com/elyseelc/stedi_project_udacity/assets/128007448/a05d0696-8b89-4743-829b-443b18ca6f38">
+<img width="634" alt="accelerometer_landing_screenshot_query" src="https://github.com/elyseelc/stedi_project_udacity/assets/128007448/b254ba75-bff1-479c-83ae-e4916b7570ec">
