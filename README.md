@@ -2,7 +2,7 @@
 
 ## customer_landing table screenshot
 
-<img width="643" alt="customer_landing_screenshot_query" src="https://github.com/elyseelc/stedi_project_udacity/assets/128007448/454781dc-d705-42a8-8a24-0623e1d07eb2">
+<img width="639" alt="customer_landing_screenshot2" src="https://github.com/elyseelc/stedi_project_udacity/assets/128007448/b5ec87f1-f0c5-4842-b30b-5ce6f3472552">
 
 
 
