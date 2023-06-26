@@ -17,7 +17,7 @@ STORED AS INPUTFORMAT
 OUTPUTFORMAT
   'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
 LOCATION
-  's3://stediprojectbucket-customerlanding1'
+  's3://stediprojectbucket-customerlanding1/'
 TBLPROPERTIES (
   'classification'='json')
 
