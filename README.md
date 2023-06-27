@@ -2,7 +2,8 @@
 
 ## customer_landing table screenshot
 
-<img width="1470" alt="customer_landing" src="https://github.com/elyseelc/stedi_project_udacity/assets/128007448/3eec6d3a-79f9-49dc-a20b-6daabade6ce7">
+<img width="1470" alt="customer_land" src="https://github.com/elyseelc/stedi_project_udacity/assets/128007448/ef36474a-f2b2-42d2-986d-3a131d90e903">
+
 
 
 
@@ -14,7 +15,8 @@
 
 ## customer_trusted table screenshot
 
-<img width="1470" alt="customer_trusted" src="https://github.com/elyseelc/stedi_project_udacity/assets/128007448/a983bcde-bf5a-4543-9389-71e60e957996">
+<img width="1470" alt="customer_trust" src="https://github.com/elyseelc/stedi_project_udacity/assets/128007448/adef5f44-bfa6-4793-85fd-848c583226f4">
+
 
 
 
